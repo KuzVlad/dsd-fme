@@ -10,6 +10,10 @@ See the Wiki pages for an appropriate installation method.
 
 https://github.com/lwvmobile/dsd-fme/wiki
 
+Precompiled Windows Cygwin Versions based on up-to-date pulseaudio branch can be found in the releases section.
+
+https://github.com/lwvmobile/dsd-fme/releases
+
 ## License
 Copyright (C) 2010 DSD Author
 GPG Key ID: 0x3F1D7FD0 (74EF 430D F7F2 0A48 FCE6  F630 FAA2 635D 3F1D 7FD0)
